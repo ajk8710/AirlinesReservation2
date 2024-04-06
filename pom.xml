@@ -114,4 +114,5 @@
         <finalName>AirlinesReservation2</finalName>
 	</build>
 
+    <packaging>war</packaging>
 </project>
