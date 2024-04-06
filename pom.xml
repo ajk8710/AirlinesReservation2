@@ -111,6 +111,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+        <finalName>AirlinesReservation2</finalName>
 	</build>
 
 </project>
